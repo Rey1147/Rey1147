@@ -1,6 +1,6 @@
 <img src="h1.png" style="position: relative; top: 2em" alt="h1">
 <h2 style="font-size: xx-large; font-weight: bold">&#10024; Beginner Front-end Developer</h2>
-<h2 style="font-size: medium; font-weight: lighter">Student studying Information Systems and Technologies. I write code for fun and more</h2>
+<p style="font-size: medium; font-weight: lighter">Student studying Information Systems and Technologies. I write code for fun and more</p>
 
 <h2>🔭 I’m currently working with:</h2>
 
