@@ -1,9 +1,6 @@
-<header style="margin-top: 2em; display: flex; justify-content: center; background: #31323b; border-left: 0.2em solid #7aa89f">
-    <h1 style="margin-top: 0.1em">Hi there, I'm <span style="color: #7aa89f">Evgenia</span> &#128075; </h1>
-</header>
-
+<img src="h1.png" style="position: relative; top: 2em" alt="h1">
 <h2 style="font-size: xx-large; font-weight: bold">&#10024; Beginner Front-end Developer</h2>
-<p style="font-size: large">Student studying Information Systems and Technologies. I write code for fun and more</p>
+<h2 style="font-size: medium; font-weight: lighter">Student studying Information Systems and Technologies. I write code for fun and more</h2>
 
 <h2>🔭 I’m currently working with:</h2>
 
